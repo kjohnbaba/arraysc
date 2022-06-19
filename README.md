@@ -1,1 +1,1 @@
-# arraysc
+Small array exercise in c
