@@ -1,1 +1,1 @@
-Small array exercise in c
+Small array warm up exercise in c 
